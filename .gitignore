@@ -1,0 +1,30 @@
+# venv
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# env files (secrets)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+
+# local db
+*.db
+
+# model weights (too big for GitHub)
+model/*.safetensors
+model/*.bin
