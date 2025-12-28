@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "pfa-backend",
+			"path": "."
+		},
+		{
+			"name": "model",
+			"path": "../../../Downloads/pfa-ai-detector-deberta-v3/model"
+		}
+	],
+	"settings": {}
+
+
+
+	
+}

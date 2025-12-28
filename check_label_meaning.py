@@ -13,3 +13,7 @@ for lab in [0,1]:
     top = df[df["label"]==lab]["model"].fillna("").value_counts().head(10)
     print("\nlabel", lab)
     print(top)
+
+
+
+
